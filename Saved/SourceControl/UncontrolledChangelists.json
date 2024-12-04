@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"D:/Unreal Engine 5/Juego_1/Juego_1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Marketplace/Improved11c8d5497ea3V5/Content/ImprovedQuestSystem/Maps/L_StartGame.umap"
+			]
+		}
+	]
+}
