@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.6.1",
+	"FriendlyName": "ImprovedQuestSystem",
+	"Description": "Improved Quest System allows you to quickly create in-game quests",
+	"Category": "Blueprints",
+	"CreatedBy": "Butenko Evgeny Anatolevich",
+	"CreatedByURL": "w4ee44@gmail.com",
+	"DocsURL": "https://drive.google.com/file/d/1AA45vwikW0GEnkLfW4VLeS_cCYwboZuD/view?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/af2537d94d334aafa8680311656ed49e",
+	"SupportURL": "w4ee44@gmail.com",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ImprovedQuestSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
