@@ -10,6 +10,10 @@ public class Juego_1Target : TargetRules
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;
+<<<<<<< HEAD
+		ExtraModuleNames.Add("Juego_1_Rev1");
+=======
 		ExtraModuleNames.Add("Juego_1");
+>>>>>>> 575ebdfe85b81a8b18c18c3aa1d29c75c02d231b
 	}
 }
